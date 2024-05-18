@@ -1,0 +1,3 @@
+gsutil mb gs://$DEVSHELL_PROJECT_ID
+
+gcloud beta services identity create --service=dataprep.googleapis.com
