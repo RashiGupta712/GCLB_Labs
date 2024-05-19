@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Build%20a%20BI%20Dashboard%20Using%20Looker%20Studio%20and%20BigQuery/quicklabgsp403.sh
+
+sudo chmod +x quicklabgsp403.sh
+
+./quicklabgsp403.sh
