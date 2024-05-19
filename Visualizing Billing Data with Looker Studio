@@ -1,0 +1,5 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Visualizing%20Billing%20Data%20with%20Looker%20Studio/quicklabgsp622.sh
+
+sudo chmod +x quicklabgsp622.sh
+
+./quicklabgsp622.sh
